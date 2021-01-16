@@ -1,0 +1,1 @@
+mongodb+srv://sohail:sohail6910@f1ex.18xqz.mongodb.net/<dbname>?retryWrites=true&w=majority
